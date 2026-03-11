@@ -4,9 +4,9 @@
 
 ## How to install:
 
-1. Install [a-Shell](https://www.icloud.com/shortcuts/a19d3a7711ab4b2ea130a16c14910fa3)
+1. Install [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438)
 
-2. Add the [Save Video to iPhone shortcut](https://www.icloud.com/shortcuts/94183d770c594b01ab4be2ec667bf85a)
+2. Add the [Save Video to iPhone shortcut](https://www.icloud.com/shortcuts/9951391779114994a0b633f3145c29b0)
 
 ## How to use it:
 
